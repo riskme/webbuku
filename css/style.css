@@ -915,6 +915,7 @@ ol.numbers {
   float: none;
   display: table-cell;
   vertical-align: middle;
+  background: FFF8DC;
 }
 
 .logo-wrap {
@@ -952,7 +953,7 @@ ol.numbers {
 .nav-wrap {
   padding: 0 15px;
   width: 100%;
-  background: #fff;
+  background: #FFF0F5;
 }
 
 .navbar-nav {
@@ -2111,6 +2112,7 @@ ol.numbers {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center top;
+  color: #48D1CC;
 }
 
 .page-title .container {
@@ -4337,6 +4339,7 @@ table th {
 -------------------------------------------------------*/
 .banner-wrap {
   margin-bottom: 47px;
+  background: #FFF0F5;
 }
 
 .banner-wrap .hero-holder {
